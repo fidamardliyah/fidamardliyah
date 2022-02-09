@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Fida' Mardliyah**.
+
+Saya seorang mahasiswa tingkat akhir di Prodi Statistika Universitas Sebelas Maret [UNS](https://statistika.mipa.uns.ac.id/).
+
+Saya memiliki ketertarikan di bidang analisis data, saya bercita-cita menjadi seorang Data Analyst atau Data Scientist. Saat ini saya sedang mengikuti kegiatan Studi Independen program Bangkit pada Machine Learning Path.
+
+Jika kamu tertarik untuk mengenalku lebih dalam, silakan kunjungi akun [Linkedin](https://www.linkedin.com/in/fida-mardliyah-3119b8143/) ya.
+
+
 <!--
 **fidamardliyah/fidamardliyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
